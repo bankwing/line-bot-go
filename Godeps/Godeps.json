@@ -1,0 +1,20 @@
+{
+	"ImportPath": "github.com/bankwing/line-bot-go",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/line/line-bot-sdk-go/linebot",
+			"Comment": "1.0.0-89-g5b4d15a",
+			"Rev": "5b4d15ac1b87fe2831ae06d92aeda735deed1206"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "ab555f366c4508dbe0802550b1b20c46c5c18aa0"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context/ctxhttp",
+			"Rev": "ab555f366c4508dbe0802550b1b20c46c5c18aa0"
+		}
+	]
+}
